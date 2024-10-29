@@ -98,5 +98,31 @@ Your modules should be saved in a .py file.
 To import a module in your program, you must import it using the import keyword.
 
 Lists, tuples, dictionaries, sets:
-These are Python data structures that are essential for organizing and managing data. 
+These are Python data structures that are essential for organizing and managing data.
+1. Lists:
+   It is an ordered collection of items that can hold a variety of data types (integers, strings, other lists)
+   CHARACTERISTICS:
+   Order: have order and indexed
+   Mutability: can be modified by add, removing or changing elements
+   Heterogeneous: they can contain different types of data.
 
+Common Operations: 
+Adding Items: uses append() to add an item to the end of a list, insert () to add at a specific position
+Accessing Items: Use indexing (list[0] for the first item or slicing for a sublist [1:3]
+Remving Items: use remove() to remove a specific item or pop() to remove an item at a specific index.
+Looping Through Lists: Uses for loop to iterate through each item in the list
+
+2. Tuples:
+   Refers to an order of collection of items similar to a list but unlike lists, tuples are immutable. onces created they cannot be changed.
+   CHARACTERISTICS:
+   Order: are ordered & indexed 
+   Immutable: cannot be modified
+   Heterogeneous: they can contain different types of data.
+
+Common Operations:
+Accessing Items: similar to lists, allow you to use indexing & slicing
+Tuple Unpacking: Assign elements of a tuple to multiple variables in one step
+Creating Single-Element Tuples: usea comma after the single element (my_tuple = (5,)).
+
+3. Dictionaries:
+   It is collection of key-value pairs where each key is unique. Dictionaries are mutable, allowing you to change, add, or remove key-value pairs. 
