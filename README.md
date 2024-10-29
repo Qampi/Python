@@ -51,12 +51,20 @@ Operators refer to special symbols or keywords that perform operations on python
 Expressions:
 Refers to a combination of values, variables and operators that Python interprets and evaluate to produce results.
 Types of Operators: 
-Arithmetic Operators: Addition, Substraction, Multiplication, Division, Floor division, Modulus & Expontiation.
-Comparison Operators: Equal, Not Equal, Greater Than, Less Than, Greater Than or Equal To & less Than or Equal To.
-Logical Operators: AND, OR & NOT
-Assignment Operators:  Equal, Add and Assign, Multiply and Assign & Divide and  Assign.
-Identity Operators: Is & Is Not.
-Membership Operators: In & Not In.
-Bitwise Operators: AND, OR., XOR, NOT, Left Shift & Right Shift.
+Arithmetic Operators: Addition (+), Substraction (-), Multiplication (*), Division (/), Floor division (//), Modulus (%) & Expontiation (**).
+Comparison Operators: Equal (==), Not Equal (!=), Greater Than (>), Less Than (<), Greater Than or Equal To (>=)& less Than or Equal To (<=).
+Logical Operators: AND (and), OR (or) & NOT (not).
+Assignment Operators:  Equal (=), Add and Assign (+ =), Multiply and Assign (*=) & Divide and  Assign (/=).
+Identity Operators: Is (is) & Is Not (is not).
+Membership Operators: In (in) & Not In (not in).
+Bitwise Operators: AND (&) , OR (|), XOR (^), NOT (~), Left Shift (<<) & Right Shift (>>).
+
+Control structures (if-else, loops)
+if-else and loops are primary control structures that allow you to dictate the flow of your program.
+
+Conditional statement (if-else):
+Allow you to execute certain blocks of code based on specific conditions. 
+
+
 
 
