@@ -40,7 +40,12 @@ Be consistent with your
 Implicit Type Conversion
 result = 10 + 3.5
 Explicit Type Conversion
-num_str = "100"
+num_str = "100" # converts string to integer.
+
+To check data type:
+print(typ(age)) # output: <class 'int'>
+
+Operators & Expressions:
 
 
 
