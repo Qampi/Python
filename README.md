@@ -43,9 +43,20 @@ Explicit Type Conversion
 num_str = "100" # converts string to integer.
 
 To check data type:
+
 print(typ(age)) # output: <class 'int'>
 
 Operators & Expressions:
-
+Operators refer to special symbols or keywords that perform operations on python variables and values. 
+Expressions:
+Refers to a combination of values, variables and operators that Python interprets and evaluate to produce results.
+Types of Operators: 
+Arithmetic Operators: Addition, Substraction, Multiplication, Division, Floor division, Modulus & Expontiation.
+Comparison Operators: Equal, Not Equal, Greater Than, Less Than, Greater Than or Equal To & less Than or Equal To.
+Logical Operators: AND, OR & NOT
+Assignment Operators:  Equal, Add and Assign, Multiply and Assign & Divide and  Assign.
+Identity Operators: Is & Is Not.
+Membership Operators: In & Not In.
+Bitwise Operators: AND, OR., XOR, NOT, Left Shift & Right Shift.
 
 
