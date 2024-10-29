@@ -73,5 +73,20 @@ Else Statement: Executes a block of code if all previous conditions were false.
 2. Loops:
 They allow you to repeat a block of code multiple times. 
 Two types of Loops:
-for loops: Involves lists, tuple, or strings.
+For Loops: Involves lists, tuple, or strings.
 Most used over a sequence & executes a block of code for each item in the sequence.
+While Loops: Can be used to repeat a block of code as long as a condition is true.
+
+3. Combining if-else with Loops
+   you willcombine conditional statements with loops to control how many times a loop runs or to break out of a loop early.
+
+4. Best Practices:
+   Identation
+   Clear Conditions
+   Avoid Infinite Loops
+
+Functions & Modules:
+These concepts help you to organize, reuse & manage your code efficiently. 
+
+1. Function:
+Refers to blocks of reuseable code that perfom a specific task. 
