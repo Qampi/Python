@@ -62,9 +62,16 @@ Bitwise Operators: AND (&) , OR (|), XOR (^), NOT (~), Left Shift (<<) & Right S
 Control structures (if-else, loops)
 if-else and loops are primary control structures that allow you to dictate the flow of your program.
 
-Conditional statement (if-else):
+1. Conditional statement (if-else):
 Allow you to execute certain blocks of code based on specific conditions. 
+Syntax involves using if, elif (short for "else if"), and else to evaluate expressions and decide which code to run.
 
+If Statement: Executes a block of code if the condition is true.
+Elif Statement: Checks another condition if the previous conditions were false.
+Else Statement: Executes a block of code if all previous conditions were false.
 
-
-
+2. Loops:
+They allow you to repeat a block of code multiple times. 
+Two types of Loops:
+for loops: Involves lists, tuple, or strings.
+Most used over a sequence & executes a block of code for each item in the sequence.
