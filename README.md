@@ -126,3 +126,26 @@ Creating Single-Element Tuples: usea comma after the single element (my_tuple = 
 
 3. Dictionaries:
    It is collection of key-value pairs where each key is unique. Dictionaries are mutable, allowing you to change, add, or remove key-value pairs. 
+CHARACTERISTICS:
+Key-Value Pairs: each item in a dictionary consists of a key & its associated value.
+Unordered: Dictionaries do not maintain the order of items 
+Mutability: you can modify the contents of dictionaries
+
+Common Operations:
+Adding/Modifying Items: Assign a value to a key using dict[key] = value.
+Accessing Values: Use the key to access its associated value (e.g., dict["key"]).
+Removing Items: Use del dict[key] to remove a key-value pair or pop() to remove a key and return its value.
+Looping Through Dictionaries: Use a for loop to iterate over keys, values, or both.
+
+4. Sets:
+A set is an unordered collection of unique items. Sets are mutable, but they do not allow duplicate elements.
+Characteristics:
+Unordered: Sets do not maintain the order of items.
+Unique Items: Each item in a set must be unique; duplicates are automatically removed.
+Mutability: You can add or remove items from a set.
+
+Common Operations:
+Adding Items: Use add() to add a single item to a set.
+Removing Items: Use remove() or discard() to remove an item from a set.
+Set Operations: Perform union, intersection, difference, and symmetric difference using operators like |, &, -, and ^.
+Looping Through Sets: Use a for loop to iterate through each item in the set.
