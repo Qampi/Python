@@ -89,4 +89,14 @@ Functions & Modules:
 These concepts help you to organize, reuse & manage your code efficiently. 
 
 1. Function:
-Refers to blocks of reuseable code that perfom a specific task. 
+Refers to blocks of reuseable code that perfom a specific task.
+Functions allow you to breake down your code into smaller, manageable pieces.
+You define a function by using the def keyword, followed by the function word. inside the function yu write the code that you want to execute when the function is called.
+2. Modules:
+Are files that contain Python code, which can include functions, variables & classes.
+Your modules should be saved in a .py file.
+To import a module in your program, you must import it using the import keyword.
+
+Lists, tuples, dictionaries, sets:
+These are Python data structures that are essential for organizing and managing data. 
+
