@@ -149,3 +149,64 @@ Adding Items: Use add() to add a single item to a set.
 Removing Items: Use remove() or discard() to remove an item from a set.
 Set Operations: Perform union, intersection, difference, and symmetric difference using operators like |, &, -, and ^.
 Looping Through Sets: Use a for loop to iterate through each item in the set.
+
+Python Libraries:
+libraries are powerful tools used for data manipulation, analysis & numerical computation. 
+Libraries are pre-written code that you can import into your project to extend the functionality of your programs. 
+NumPy: Are used when working with large arrays & matrices are ideal for numerical computation.
+KEY FEATURES:
+-Ndarray
+-Vectorization
+-Broadcasting
+COMMON OPERATIONS:
+-Creating Arrays
+-Mathematical Operations
+-Reshaping Arrays
+-Aggregations
+#JAVA
+Before you start with Java yu need to set a Java development environment. 
+install JDK (Java Development Kit) & select an Integrated Development Environment (IDE) to write, compile & run your Java programs.
+Pandas: Can be used to analyse data & for data manipulation especially when dealing with structured data like tables.
+KEY FEATURES:
+-Series & DataFrames
+-Data Cleaning
+-Data Manipulation
+-Data Analysis
+COMMON OPERATIONS:
+-Creating DataFrames
+-Selecting Data
+-Handling Missing Data
+-Grouping Data
+
+INSTALLATION:
+[pip install numpy pandas]
+SETTING UP:
+import numpy as np
+import pandas as pd
+To verify your installation:
+on your terminal [java -version]
+
+#JAVA
+Before you start with Java yu need to set a Java development environment. 
+install JDK (Java Development Kit) & select an Integrated Development Environment (IDE) to write, compile & run your Java programs.
+VARIABLES, DATA TYPES, OPERATORS
+VARIABLES:
+It is a container that holds data that can be changed during the execution of a program. this type of data includes name, a data type & a value.
+DECLARATION & INITIALIZATION:
+Before you use a variable you must declare it by specifying its data type & name.
+TYPES OF VARIABLES
+-Local variables: Are declared within a method & are accessible only within that metho.
+-Instance variables: Are declared within a class but outside methods; accessible by all methods in the class.
+-Static variables: Are declared within static keyword; are shared among all instances of a class.
+
+DATA TYPES IN JAVA:
+                   PRIMITIVE DATA TYPES
+-Primitive data types are eight build-in java data types.
+
+
+
+
+
+
+
+
