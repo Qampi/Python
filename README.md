@@ -282,5 +282,15 @@ They allow you to encapsulate code into reusable, organized units, making your p
          - ENCAPSULATION
          - REUSABILITY
          - ABSTRACTION
+        
+CLASSES AND OBJECTS
+1. Understanding Classes
+A class in Java is a blueprint for creating objects. It defines a data structure by specifying the properties (attributes or fields) and behaviors (methods) that the objects created from the class can have.
+
+Key Concepts:
+-Attributes (fields): Refers to variables that store the state of an object
+-Methods: Refers to functions that define the behavior of an object. These functions operate on the object'sattributes & can perform actions or return values.
+-Constructors: Refers to special methods used to initialize objects when they are created. They often set initial values for attributes. 
+
 
 
