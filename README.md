@@ -1,3 +1,4 @@
+
 # Python
 python Basics:
 it is a beginner-friendly programming language that is used in web development.
@@ -222,7 +223,9 @@ Relational Operator
 Logical Operators
 -Are used to combine multiple boolean expressions or values. Common logical operators include AND (&&); OR (||), AND NOT (!).
 Assignment Operators
--
+-Are used to assign values to variables. Assignment operator (=), the are other compound assignment operators like +=, -=, *=, and /=.
+Unary Operators
+-Operate on a single operand. Increment (++); decrement (--); use to increase or decrease the values of a variable by one. 
 
 
 
