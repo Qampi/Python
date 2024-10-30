@@ -335,3 +335,9 @@ Inheritance and Polymorphism are two cornerstone concepts of Object-Oriented Pro
    > Use Inheritance Wisely
    > Override Methods Carefully
    > Leverage Polymorphism
+
+
+EXCEPTION HANDLING:
+-Exception handling is the process of responding to these exceptions in a structured way, so the program can continue to operate or terminate gracefully.
+-exception refers to an event that disrupts the normal flow of the program. Exeptions are objects that represents errors or unexpected conditions that occur during the execution of a program.
+ 
