@@ -188,9 +188,6 @@ import pandas as pd
 To verify your installation:
 on your terminal [java -version]
 
-#JAVA
-Before you start with Java yu need to set a Java development environment. 
-install JDK (Java Development Kit) & select an Integrated Development Environment (IDE) to write, compile & run your Java programs.
 VARIABLES, DATA TYPES, OPERATORS
 VARIABLES:
 It is a container that holds data that can be changed during the execution of a program. this type of data includes name, a data type & a value.
