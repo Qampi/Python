@@ -289,5 +289,22 @@ Key Concepts:
 -Methods: Refers to functions that define the behavior of an object. These functions operate on the object'sattributes & can perform actions or return values.
 -Constructors: Refers to special methods used to initialize objects when they are created. They often set initial values for attributes. 
 
+2. CREATING OBJECTS
+An object is an instance of a class. When you create an object, you are essentially bringing the class blueprint to life, giving it a specific state by assigning values to its attributes.
+
+KEY POINTS:
+> Instantiation: Create an object from a class using the new keyword
+> Accessing Attributes & Methods: Use the dot (.) operator to access an object's attributes & methods.
+
+3. KEY OOP CONEPTS: ENCAPSULATION, INHERITANCE & POLYMORPHISM
+   > ENCAPSULATION:  Wrapping the data (attributes) and the code (methods) together into a single unit called a class. This concept also involves restricting access to some of the object's components using access modifiers like private, protected, and public.
+   > INHERITANCE: Refers to a mechanism where one class can inherit fieds & methods from another class. (code reuse & relationship between classes).
+   > POLYMORPHISM: Refers to the ability of objects of different clases related by inheritance to respond to method calls of the same name, each one according to its appropriate type.
+
+4. BEST PRACTISES
+   > Use meaningful names
+   >  Encapsulate data
+   > Reuse Code
+   
 
 
