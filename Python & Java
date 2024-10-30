@@ -36,7 +36,7 @@ Set (set)
 unique_numbers = {1, 2, 3}
 
 Type Conversion:
-Be consistent with your 
+Be consistent with your Conversion
 Implicit Type Conversion
 result = 10 + 3.5
 Explicit Type Conversion
