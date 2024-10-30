@@ -1,4 +1,3 @@
-
 # Python
 python Basics:
 it is a beginner-friendly programming language that is used in web development.
@@ -110,7 +109,7 @@ These are Python data structures that are essential for organizing and managing 
 Common Operations: 
 Adding Items: uses append() to add an item to the end of a list, insert () to add at a specific position
 Accessing Items: Use indexing (list[0] for the first item or slicing for a sublist [1:3]
-Remving Items: use remove() to remove a specific item or pop() to remove an item at a specific index.
+Removing Items: use remove() to remove a specific item or pop() to remove an item at a specific index.
 Looping Through Lists: Uses for loop to iterate through each item in the list
 
 2. Tuples:
@@ -126,7 +125,7 @@ Tuple Unpacking: Assign elements of a tuple to multiple variables in one step
 Creating Single-Element Tuples: usea comma after the single element (my_tuple = (5,)).
 
 3. Dictionaries:
-   It is collection of key-value pairs where each key is unique. Dictionaries are mutable, allowing you to change, add, or remove key-value pairs. 
+It is collection of key-value pairs where each key is unique. Dictionaries are mutable, allowing you to change, add, or remove key-value pairs. 
 CHARACTERISTICS:
 Key-Value Pairs: each item in a dictionary consists of a key & its associated value.
 Unordered: Dictionaries do not maintain the order of items 
@@ -164,6 +163,8 @@ COMMON OPERATIONS:
 -Mathematical Operations
 -Reshaping Arrays
 -Aggregations
+
+
 #JAVA
 Before you start with Java yu need to set a Java development environment. 
 install JDK (Java Development Kit) & select an Integrated Development Environment (IDE) to write, compile & run your Java programs.
@@ -226,11 +227,60 @@ Assignment Operators
 -Are used to assign values to variables. Assignment operator (=), the are other compound assignment operators like +=, -=, *=, and /=.
 Unary Operators
 -Operate on a single operand. Increment (++); decrement (--); use to increase or decrease the values of a variable by one. 
+Conditional (Ternary) Operator:
+-refers to a shorthand way to perform an if-else check in a single line. the syntax is condition? expression1 : expression2.
+
+CONTROL STRUCTURES (if-else, loops)
+if-else and loops are primary control structures that allow you to dictate the flow of your program.
+1. CONDITIONAL STATEMENTS: if-else
+   if statement:
+If Statement: Executes a block of code if the condition is true.
+   else statement:
+Else Statement: Executes a block of code if all previous conditions were false.
+    else if Statement:
+The else if statement allows you to check multiple conditions. If the first if condition is false, the program checks the next else if condition, and so on.
+2. Loops:
+They allow you to repeat a block of code multiple times. 
+Two types of Loops:
+For Loops: Involves lists, tuple, or strings.
+Most used over a sequence & executes a block of code for each item in the sequence.
+While Loops: Can be used to repeat a block of code as long as a condition is true.
+do-while loops: is similar to the while loop, but the block of code is executed at least once before the condition is tested. This guarantees that the loop runs at least one time, regardless of the condition.
+Breaking & Continuing Loops:
+-break Statement
+-continue Statement
+3. Practical Application:
+   Conditional Execution:
+> Use if-else statements to control which blocks of code run based on dynamic conditions, such as user input or the current state of the program.
+    Iteration with Loops:
+> Use loops to perform repetitive tasks, such as iterating through arrays or collections, processing user input repeatedly, or generating sequences of numbers.
 
 
-
-
-
-
+FUNCTIONS & METHODS
+Functions are known as methods on Java, they are essential building blocks. 
+They allow you to encapsulate code into reusable, organized units, making your programs more modular, readable and easy to debug. 
+1. Methods
+   Refers to a block of code that performs a specific task.
+   Methods can take inputs, execute code & return a result. 
+2. Defining & Calling Methods
+   methods are defined within a class:
+   -Access Modifier: Determnes the visibility (public & private)
+   -Return Type: specifies the type of value the method will return (into, void if it returns nothing)
+   -Method Name: identifies the method, following standard naming conventions
+   -Parameter List: Inputs required by the method, enclosed in parentheses.
+   -Method Body: The block of code that runs when the method is called, enclosed in curly braces.
+   CALLING A METHOD:
+   -To execute a method call it by using its name followed by parenteses. if the method requires parameters, you pass them within the parentheses.
+   3. TYPES OF METHODS
+      > STATIC METHODS
+      > INSTANCE METHOD
+      > VOID METHOD
+      > RETURN TYPE METHODS
+   4. METHOD OVERLOADING
+      -Refers to allowing multiple methods in the same class to have the same name but different parameter lists. Java determines which method to call based on the number and type of parameters passed.
+      5. PRACTICAL APPLICATIONS
+         - ENCAPSULATION
+         - REUSABILITY
+         - ABSTRACTION
 
 
