@@ -202,6 +202,27 @@ TYPES OF VARIABLES
 DATA TYPES IN JAVA:
                    PRIMITIVE DATA TYPES
 -Primitive data types are eight build-in java data types.
+>bytes: 8-bit integers
+>short: 16-bit integers
+>int: 32-bit integer, commonly used for numeric data
+>long:64-bit integers, used when a wider range than int is needed
+>float:32-bit floating-point number, for decimal values
+>double:64-bit floating-point number, more precise than float
+>char:16-bit Unicode character, used for storing individual characters
+>boolean: represents true or false values
+
+REFERENCE DATA TYPES:
+>Refes to objects and arrays, these type of that are more complex and include classes, interfaces & arrays. they store the memory address where the object is located rather than the object itself.
+
+OPERATORS IN JAVA:
+Arithmetic Operators
+-Are used to perform mathematical operations such as  (+); (-); (*); (/) & (%)
+Relational Operator
+-Are used to compare two values, returning a boolean results. Examples include equali (==); inequality (!=); greater than (>), & less than (<).
+Logical Operators
+-Are used to combine multiple boolean expressions or values. Common logical operators include AND (&&); OR (||), AND NOT (!).
+Assignment Operators
+-
 
 
 
