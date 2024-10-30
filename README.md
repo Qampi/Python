@@ -306,5 +306,32 @@ KEY POINTS:
    >  Encapsulate data
    > Reuse Code
    
+INHERITANCE & POLYMORPHISM
+Inheritance and Polymorphism are two cornerstone concepts of Object-Oriented Programming (OOP) in Java. These principles allow you to create flexible, reusable, and organized code by establishing relationships between classes and enabling objects to behave in different ways.
 
+1. Inheritance
+   Allows new class (subclass or child class) to inherit fields & methods from an existing class (superclass or parent class).
+   This enables you to create a hierarchy of classes that share common behavior, promoting code reuse and reducing redundancy.
 
+   KEY CONCEPTS:
+   >Superclass (parent Class)
+   >Subclass (Child Class)
+   >extends Keyword
+
+2. Polymorphism
+   allows objects of different classes related by inheritance to be treated as objects of a common superclass. It also enables methods to be used in multiple forms, depending on the object that invokes them.
+
+   KEY CONCEPTS:
+   > Method Overriding
+   > Dynamic method Dispatch
+
+3. IMPORTANCE OF INHERITANCE 7 POLYMORPHISM
+   > Code Reusability
+   > Extensibility
+   > Maintainability
+   > Flexibility
+
+4. Best Practices
+   > Use Inheritance Wisely
+   > Override Methods Carefully
+   > Leverage Polymorphism
