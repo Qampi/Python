@@ -336,8 +336,35 @@ Inheritance and Polymorphism are two cornerstone concepts of Object-Oriented Pro
    > Override Methods Carefully
    > Leverage Polymorphism
 
-
-EXCEPTION HANDLING:
+1. EXCEPTION HANDLING:
 -Exception handling is the process of responding to these exceptions in a structured way, so the program can continue to operate or terminate gracefully.
 -exception refers to an event that disrupts the normal flow of the program. Exeptions are objects that represents errors or unexpected conditions that occur during the execution of a program.
- 
+
+ KEY CONCEPTS:
+> Exception
+> Exception Handling
+    TYPES OF EXCEPTIONS
+> Checked Exceptions: are checked at compile-time (e.g., IOException).
+> Unchecked Exceptions: occur at runtime (e.g., ArithmeticException, NullPointerException).
+> Errors: are usually beyond the control of the program (e.g., OutOfMemoryError).
+
+2. The try-catch Block
+- is the foundation of exception handling in Java. It allows you to try a block of code and catch any exceptions that occur, providing an opportunity to handle the error.
+
+  KEY CONCEPTS:
+> try Block: contains the code that might throw an exception
+> catch Block: catches & handles exceptions if occurs. you can have multiple catch bloks to handle different types of exceptions.
+> finally Block: optional; ) Executes code after try and catch, regardless of whether an exception was thrown. It's typically used for cleanup activities, like closing resources.
+
+3. THROWING EXCEPTINS:
+- This can be done mannualy by using the throw keyword.
+
+KEY POINTS:
+> throw Keyword
+> Custom Exceptions
+
+4. Best Practices
+   > Catch Specific Exceptions
+   > Use finally for Cleanup
+   > Custom Exceptions
+   > Avoid Empty Catch Blocks
